@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Onkar Shinde
 
-<!--
-**onkar-shinde-devops/onkar-shinde-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate**  
+🚀 **DevOps Engineer (Fresher)**  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Passionate about **DevOps & Cloud Technologies**
+- Strong foundation in **Linux, Networking, and Automation**
+- Actively learning and building **real-world DevOps projects**
+- Interested in **CI/CD pipelines, Cloud infrastructure, and containerization**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC – basics)
+
+### 🖥️ OS & Networking
+- Linux
+- Networking Fundamentals
+
+### 🔧 DevOps & Tools
+- Git & GitHub
+- CI/CD
+- Jenkins
+- Docker
+- Kubernetes (K8s)
+- Terraform
+- Ansible
+
+### 💻 Programming & Database
+- Python
+- SQL
+
+---
+
+## 📂 Featured Repositories
+🔹 `linux-commands` – Linux practice & notes  
+🔹 `git-github-notes` – Git & GitHub fundamentals  
+🔹 `aws-practice` – AWS hands-on labs  
+🔹 `terraform-practice` – Infrastructure as Code  
+🔹 `devops-projects` – Mini DevOps projects  
+
+_(More projects coming soon 🚧)_
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/-onkar-shinde
+- 📧 Email: onkarshinde7277@gmail.com
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
