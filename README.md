@@ -2,7 +2,7 @@
 
 🎓 **BCA Graduate**  
 🚀 **DevOps Engineer (Fresher)**  
-📍 India
+📍 Pune, Maharashtra
 
 ---
 
