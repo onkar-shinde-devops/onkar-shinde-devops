@@ -38,14 +38,7 @@
 
 ---
 
-## 📂 Featured Repositories
-🔹 `linux-commands` – Linux practice & notes  
-🔹 `git-github-notes` – Git & GitHub fundamentals  
-🔹 `aws-practice` – AWS hands-on labs  
-🔹 `terraform-practice` – Infrastructure as Code  
-🔹 `devops-projects` – Mini DevOps projects  
 
-_(More projects coming soon 🚧)_
 
 ---
 
